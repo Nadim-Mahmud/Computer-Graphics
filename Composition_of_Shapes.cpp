@@ -1,3 +1,5 @@
+/// Composition of shapes
+
 #include <graphics.h>
 
 int main(){
