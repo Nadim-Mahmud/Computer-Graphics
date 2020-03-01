@@ -22,7 +22,7 @@ int main() {
             y=rand()%6;
         }
     }
-    getch();
+    //getch();
     closegraph();
 }
 
